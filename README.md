@@ -1,2 +1,2 @@
-Siple webpage linking to various things.
+Simple webpage linking to various things.
 
